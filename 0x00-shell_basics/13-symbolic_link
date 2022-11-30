@@ -1,0 +1,2 @@
+#!/bin/bash
+Cp -L /bin/ls __ls__
