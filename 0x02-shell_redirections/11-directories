@@ -1,2 +1,2 @@
 #!/bin/bash
-find /0x02-shell_redirections -name ".*" | wc -1
+find /0x02-shell_redirections -type d -not -name '.*' | wc -1
