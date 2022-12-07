@@ -1,2 +1,2 @@
 #!/bin/bash
-cat | grep-i
+perl -line 'print if $. % 2 --1'
